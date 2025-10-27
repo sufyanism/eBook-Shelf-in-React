@@ -2,7 +2,6 @@
 A simple bookshelf web app that lists eBooks, built with React (Vite) for the frontend and Express.js for the backend API.
 
 </br>
-<div style="margin-top:20px;"></div> <!-- adds space above -->
 
 ##  Table of Contents
 1. [About](#about)  
@@ -18,13 +17,11 @@ A simple bookshelf web app that lists eBooks, built with React (Vite) for the fr
 9. [Learning Hub](#your-all-in-one-learning-hub)
 
 </br>
-<div style="margin-top:20px;"></div> <!-- adds space above -->
 
 ## About
 eBook‑Shelf is a minimal web application for showcasing a collection of eBooks. The frontend is built using React (via Vite), and it fetches data from a backend API powered by Express.js. The goal is to have a clean separation between client and server, making it easier to extend (e.g. add CRUD, authentication, etc.).
 
 </br>
-<div style="margin-top:20px;"></div> <!-- adds space above -->
 
 ## Features
 ✨ Display a list of books with title, author, and (optionally) other metadata  
@@ -34,7 +31,6 @@ eBook‑Shelf is a minimal web application for showcasing a collection of eBooks
 ✨ Modular architecture (frontend + backend separation)  
 
 </br>
-<div style="margin-top:20px;"></div> <!-- adds space above -->
 
 ##  Tech Stack
 
@@ -42,10 +38,9 @@ eBook‑Shelf is a minimal web application for showcasing a collection of eBooks
 |----------------|------------------------------|
 | Frontend       | React, Vite                  |
 | Routing        | React Router DOM             |
-| Backend        | Express.js, Node.js          |
+| Backend        |         |
 
 </br>
-<div style="margin-top:20px;"></div> <!-- adds space above -->
 
 ##  Getting Started
 ### Prerequisites
@@ -56,7 +51,6 @@ You should have the following installed on your machine:
 - (Optionally) `yarn`, if you prefer it over npm  
 
 </br>
-<div style="margin-top:20px;"></div> <!-- adds space above -->
 
 ### Setup & Run
 
@@ -111,7 +105,6 @@ This will allow you to preview your project in your browser and launch it locall
 5. ➡ [Local Development Server](http://localhost:5173)
 
 </br>
-<div style="margin-top:20px;"></div> <!-- adds space above -->
 
 ##  Project Structure
 
@@ -130,7 +123,6 @@ eBook-Shelf/
 You can extend this structure over time (e.g. adding `routes/`, `controllers/`, `models/`, etc. in backend; `components/`, `pages/`, `services/` in frontend).
 
 </br>
-<div style="margin-top:20px;"></div> <!-- adds space above -->
 
 ##  API Endpoints
 
@@ -143,7 +135,6 @@ Here are some of the key backend endpoints:
 You can further expand with endpoints for **create**, **update**, **delete** (CRUD) as needed, e.g. `POST /api/books`, `PUT /api/books/:id`, etc. 
 
 </br>
-<div style="margin-top:20px;"></div> <!-- adds space above -->
 
 ## Demo
  
@@ -154,7 +145,6 @@ You can further expand with endpoints for **create**, **update**, **delete** (CR
 https://github.com/user-attachments/assets/227e48d0-28d0-4373-88bf-07629fa20efd
 
 </br>
-<div style="margin-top:20px;"></div> <!-- adds space above -->
 
 
 ## About Me 
@@ -167,7 +157,6 @@ You can learn more about me and my work at [sufyanism.com](https://sufyanism.com
 🚀 Explore courses and resources in coding, tech, and development at **zeba.academy** and **code.zeba.academy**. Empower yourself with practical skills through curated tutorials, real-world projects, and hands-on experience. Level up your tech game today! 💻✨
 
 </br>
-<div style="margin-top:10px;"></div> <!-- adds space above -->
 
 **Zeba Academy**  is a learning platform dedicated to **coding**, **technology**, and **development**.  
 ➡ Visit our main site: [zeba.academy](https://zeba.academy)   </br>
@@ -177,11 +166,9 @@ You can learn more about me and my work at [sufyanism.com](https://sufyanism.com
 
 
 </br>
-<div style="margin-top:30px;"></div> <!-- adds space above -->
 
 **Thank you for visiting!** 
 
-<div style="margin-bottom:20px;"></div> <!-- adds space above -->
 
 
 
