@@ -1,7 +1,6 @@
 # eBook‑Shelf
 A simple bookshelf web app that lists eBooks, built with React (Vite) for the frontend and Express.js for the backend API.
 
-</br>
 
 ##  Table of Contents
 1. [About](#about)  
@@ -16,12 +15,9 @@ A simple bookshelf web app that lists eBooks, built with React (Vite) for the fr
 8. [About](#about-me)
 9. [Learning Hub](#your-all-in-one-learning-hub)
 
-</br>
 
 ## About
 eBook‑Shelf is a minimal web application for showcasing a collection of eBooks. The frontend is built using React (via Vite), and it fetches data from a backend API powered by Express.js. The goal is to have a clean separation between client and server, making it easier to extend (e.g. add CRUD, authentication, etc.).
-
-</br>
 
 ## Features
 ✨ Display a list of books with title, author, and (optionally) other metadata  
@@ -29,8 +25,6 @@ eBook‑Shelf is a minimal web application for showcasing a collection of eBooks
 ✨ CORS enabled for cross-origin requests  
 ✨ React-based UI for easy expansion  
 ✨ Modular architecture (frontend + backend separation)  
-
-</br>
 
 ##  Tech Stack
 
@@ -40,7 +34,6 @@ eBook‑Shelf is a minimal web application for showcasing a collection of eBooks
 | Routing        | React Router DOM             |
 | Backend        |         |
 
-</br>
 
 ##  Getting Started
 ### Prerequisites
@@ -49,8 +42,6 @@ You should have the following installed on your machine:
 - Node.js (v14+ recommended)  
 - npm (comes with Node.js)  
 - (Optionally) `yarn`, if you prefer it over npm  
-
-</br>
 
 ### Setup & Run
 
@@ -104,7 +95,6 @@ This will allow you to preview your project in your browser and launch it locall
 
 5. ➡ [Local Development Server](http://localhost:5173)
 
-</br>
 
 ##  Project Structure
 
@@ -122,8 +112,6 @@ eBook-Shelf/
 ```
 You can extend this structure over time (e.g. adding `routes/`, `controllers/`, `models/`, etc. in backend; `components/`, `pages/`, `services/` in frontend).
 
-</br>
-
 ##  API Endpoints
 
 Here are some of the key backend endpoints:
@@ -134,29 +122,20 @@ Here are some of the key backend endpoints:
 
 You can further expand with endpoints for **create**, **update**, **delete** (CRUD) as needed, e.g. `POST /api/books`, `PUT /api/books/:id`, etc. 
 
-</br>
-
 ## Demo
  
 ![Ebook Shelf](https://github.com/user-attachments/assets/d96c10f0-d8b2-4650-8f44-dadafa9c462d)
 
-</br>
 
 https://github.com/user-attachments/assets/227e48d0-28d0-4373-88bf-07629fa20efd
-
-</br>
 
 
 ## About Me 
 ✨ I’m **Sufyan bin Uzayr**, an open-source developer passionate about building and sharing meaningful projects.
 You can learn more about me and my work at [sufyanism.com](https://sufyanism.com/) or connect with me on [Linkedin](https://www.linkedin.com/in/sufyanism)
 
-</br>
-
 ## Your all-in-one learning hub! 
 🚀 Explore courses and resources in coding, tech, and development at **zeba.academy** and **code.zeba.academy**. Empower yourself with practical skills through curated tutorials, real-world projects, and hands-on experience. Level up your tech game today! 💻✨
-
-</br>
 
 **Zeba Academy**  is a learning platform dedicated to **coding**, **technology**, and **development**.  
 ➡ Visit our main site: [zeba.academy](https://zeba.academy)   </br>
@@ -164,8 +143,6 @@ You can learn more about me and my work at [sufyanism.com](https://sufyanism.com
 ➡ Check out our YouTube for more tutorials: [zeba.academy](https://www.youtube.com/@zeba.academy)  </br>
 ➡ Follow us on Instagram: [zeba.academy](https://www.instagram.com/zeba.academy/)  </br>
 
-
-</br>
 
 **Thank you for visiting!** 
 
